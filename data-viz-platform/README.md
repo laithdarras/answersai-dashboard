@@ -128,7 +128,7 @@ npm run preview
 - **Browser Support**: Modern browsers only (ES2020+)
 - **No Offline Support**: Requires internet connection for dependencies
 
-## ⏱Time Spent
+## Time Spent
 
 ### **Development Timeline**
 
@@ -200,7 +200,7 @@ data-viz-platform/
 - Variable management and selection
 - Clean, type-safe state updates
 
-## 🔧 Development Scripts
+## Development Scripts
 
 ```bash
 npm run dev          # Start development server
